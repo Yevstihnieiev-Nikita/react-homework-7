@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-homework-7/static/css/main.a8757230.css",
+    "main.js": "/react-homework-7/static/js/main.47636921.js",
+    "static/media/Flat_tick_icon.svg": "/react-homework-7/static/media/Flat_tick_icon.14e843b186ffbb0b2fb2ced32836a878.svg",
+    "index.html": "/react-homework-7/index.html",
+    "main.a8757230.css.map": "/react-homework-7/static/css/main.a8757230.css.map",
+    "main.47636921.js.map": "/react-homework-7/static/js/main.47636921.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8757230.css",
+    "static/js/main.47636921.js"
+  ]
+}
