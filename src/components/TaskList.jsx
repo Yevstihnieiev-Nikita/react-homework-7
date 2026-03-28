@@ -1,5 +1,6 @@
 import { Component } from "react";
 import styled from "./TaskList.module.css";
+
 import can from "../img/Flat_tick_icon.svg";
 
 export class TaskList extends Component {
